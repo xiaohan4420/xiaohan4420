@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/xiaohan4420/count.svg)
+一切都是命运石之门的选择！
 <!--
 **xiaohan4420/xiaohan4420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
